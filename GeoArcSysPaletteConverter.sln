@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoArcSysPaletteConverter", "GeoArcSysPaletteConverter\GeoArcSysPaletteConverter.csproj", "{B0393283-87D1-49A8-9114-5F76BAEB1A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcSysAPI", "lib\ArcSysAPI\ArcSysAPI\ArcSysAPI.csproj", "{78146821-FBC1-43AF-B515-BE2822CBBCBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAPICodePack", "..\..\..\Projects\WindowsAPICodePack\WindowsAPICodePack.csproj", "{45109B18-99D7-474C-8013-A9EB65643BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0393283-87D1-49A8-9114-5F76BAEB1A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78146821-FBC1-43AF-B515-BE2822CBBCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45109B18-99D7-474C-8013-A9EB65643BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45109B18-99D7-474C-8013-A9EB65643BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45109B18-99D7-474C-8013-A9EB65643BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45109B18-99D7-474C-8013-A9EB65643BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A293AA-5733-478A-AA7A-80355EE02B4A}
+	EndGlobalSection
+EndGlobal
